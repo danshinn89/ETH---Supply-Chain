@@ -5,8 +5,7 @@ The smart contract then updates the Supply chain state of the item (Created, pai
 The owner can only change the item to delivered.  
 
 Clone and test the contract using:
+
 truffle test 
 
-Test the smart contract user side by changing the directory to the client folder, then run: 
 
-npm run start
