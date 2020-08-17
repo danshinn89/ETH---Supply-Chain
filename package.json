@@ -1,0 +1,17 @@
+{
+  "name": "supplychain",
+  "version": "1.0.0",
+  "description": "Supply Chain Project",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "CloudTech Support",
+  "license": "ISC"
+}
